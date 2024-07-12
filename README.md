@@ -1,16 +1,20 @@
 # Hola 👋, soy Valery Maragaño
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+De profesion Ingeniera en Alimentos, pero actualmente soy estudiante de Desarrollo Full Stack Python Trainee. 👩‍💻 
+<!-- Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias. -->
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+## 👩‍🎓 Formación Osorno, Chile
+
+- 2014 Educación Superior, ***Ingeniera en Alimentos, Licenciada en Ciencias de los Alimentos,*** Universidad de los Lagos.
+- 2024 Bootcamp (cursando), ***Desarrollador Full Stack Python Trainee,*** INFORCAP, por Talento Digital Chile. 
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<valery88_7@hotmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/valery-maraga%C3%B1o-4b22b0b3/)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+<!-- - Puedes visitar mi **[sitio web](https://example.com)** -->
 
 ### 🎨 Frontend
 
@@ -22,4 +26,4 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ### 📎 Herramientas
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
