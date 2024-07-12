@@ -1,11 +1,11 @@
 # Hola 👋, soy Valery Maragaño
 
-De profesion Ingeniera en Alimentos, pero actualmente soy estudiante de Desarrollo Full Stack Python Trainee. 👩‍🎓👩‍💻 
+De profesion Ingeniera en Alimentos, pero actualmente soy estudiante de Desarrollo Full Stack Python Trainee. 👩‍💻 
 <!-- Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
 
 Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias. -->
-- 2014 Educación Superior, ***Ingeniera en Alimentos, Licenciada en Ciencias de los Alimentos,*** Universidad de los Lagos.
-- 2024 Bootcamp (cursando), ***Desarrollador Full Stack Python Trainee,*** INFORCAP, por Talento Digital Chile. 
+- 2014 Educación Superior, ***Ingeniera en Alimentos, Licenciada en Ciencias de los Alimentos,*** Universidad de los Lagos. 👩‍🎓
+- 2024 Bootcamp (cursando), ***Desarrollador Full Stack Python Trainee,*** INFORCAP, por Talento Digital Chile. 👩‍💻  
 
 ## 📫 Contacto
 
