@@ -1,9 +1,6 @@
 # Hola 👋, soy Valery Maragaño
 
-Ingeniera en Alimentos en transición profesional al desarrollo de software. 
-Actualmente, me formo como Desarrolladora Full Stack Python.  
-
-***Apasionada por aplicar habilidades técnicas y analíticas para construir soluciones innovadoras y eficientes.*** 
+Ingeniera en Alimentos en transición profesional al desarrollo de software. Actualmente, me formo como Desarrolladora Full Stack Python. Estoy comprometida con el desarrollo sostenible y la creación de soluciones tecnológicas que generen impacto positivo.   
 <!-- Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
 
 Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias. -->
